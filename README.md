@@ -49,3 +49,5 @@
 [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![scikitlearn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)](https://github.com/LelouchFR/skill-icons)
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+[![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasgoh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
