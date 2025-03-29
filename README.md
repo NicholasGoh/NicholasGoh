@@ -16,6 +16,7 @@
 <p align="left">
 
 [![some](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
+[![githubactions](https://go-skill-icons.vercel.app/api/icons?i=githubactions)](https://github.com/LelouchFR/skill-icons)
 [![googleanalytics](https://go-skill-icons.vercel.app/api/icons?i=googleanalytics)](https://github.com/LelouchFR/skill-icons)
 [![others](https://skillicons.dev/icons?i=grafana,kubernetes,nginx,prometheus,terraform)](https://skillicons.dev)
 
