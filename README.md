@@ -5,7 +5,7 @@
 
 ## AI Engineer, Builder, and Learner! 🤖
 
-- 🔭 I’m currently working on [My Website](https://nicholas-goh.com)
+- 🔭 I’m currently working on my website: [![My Website](https://img.shields.io/github/v/tag/nicholasgoh/nicholasgoh.github.io?style=plastic&label=nicholas-goh.com&labelColor=6c63ff)](https://nicholas-goh.com)
 - 🌱 I’m currently learning [Docusaurus](https://docusaurus.io/)
 
 > [!note]
