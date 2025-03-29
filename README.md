@@ -8,6 +8,9 @@
 - 🔭 I’m currently working on [My Website](https://nicholas-goh.com)
 - 🌱 I’m currently learning [Docusaurus](https://docusaurus.io/)
 
+> [!note]
+> These icons represent tools I use, not just buzzwords. Mastery varies—some are battle-tested, others are for fun!
+
 #### Cloud & DevOps
 
 <p align="left">
@@ -49,6 +52,9 @@
 [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![scikitlearn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)](https://github.com/LelouchFR/skill-icons)
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+> [!warning]
+> Numbers don’t equal impact—quality matters more than commit counts or PRs. But hey, it does look pretty!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasgoh&show_icons=true&theme=tokyonight" />
