@@ -43,7 +43,9 @@
 
 <p align="left">
 
-  [![cpp](https://skillicons.dev/icons?i=css,cpp,html,js)](https://skillicons.dev)
+  [![cpp,css](https://skillicons.dev/icons?i=cpp,css)](https://skillicons.dev)
+  [![fastapi](https://go-skill-icons.vercel.app/api/icons?i=fastapi)](https://github.com/LelouchFR/skill-icons)
+  [![html,css](https://skillicons.dev/icons?i=html,js)](https://skillicons.dev)
   [![langchain](https://go-skill-icons.vercel.app/api/icons?i=langchain)](https://github.com/LelouchFR/skill-icons)
   [![others](https://skillicons.dev/icons?i=python,rabbitmq,react,typescript)](https://skillicons.dev)
 
