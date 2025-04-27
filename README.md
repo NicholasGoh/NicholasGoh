@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my website:
   - [![My Website](https://img.shields.io/github/v/tag/nicholasgoh/nicholasgoh.github.io?style=plastic&label=nicholas-goh.com&labelColor=6c63ff)](https://nicholas-goh.com?ref=github.com)
   - [![Chatbot UI](https://img.shields.io/github/v/tag/nicholasgoh/chatbot-ui?style=plastic&label=Chatbot-UI&labelColor=6c63ff)](https://github.com/NicholasGoh/chatbot-ui/tree/legacy)
-- 🌱 I’m currently building an [AI Backend Template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
+- 🛠️ I’m currently building [![FastAPI MCP LangGraph Template](https://img.shields.io/github/stars/nicholasgoh/fastapi-mcp-langgraph-template?label=FastAPI%20MCP%20LangGraph%20Template)](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
 
 > [!note]
 > These icons represent tools I use, not just buzzwords. Mastery varies—some are battle-tested, others are for fun!
