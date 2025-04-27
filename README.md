@@ -65,5 +65,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasgoh&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgoh&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgoh&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&theme=tokyonight" />
 </a>
