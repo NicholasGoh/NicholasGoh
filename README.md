@@ -13,6 +13,10 @@
 > [!note]
 > These icons represent tools I use, not just buzzwords. Mastery varies—some are battle-tested, others are for fun!
 
+<details>
+
+  <summary>Click to expand</summary>
+
 #### Cloud & DevOps
 
 <p align="left">
@@ -57,6 +61,8 @@
 [![pytorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![scikitlearn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)](https://github.com/LelouchFR/skill-icons)
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+</details>
 
 > [!warning]
 > Numbers don’t equal impact—quality matters more than commit counts or PRs. But hey, it does look pretty!
